@@ -1,5 +1,6 @@
 <style scoped>
-* { display: flex;justify-content: center;}
+* { display: flex;justify-content: center; }
+html { background:black; }
 </style>
 
 <template>
